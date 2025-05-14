@@ -1,6 +1,6 @@
 # NYC Airbnb SQL Analysis
 
-This project contains exploratory SQL analysis of the NYC Airbnb Open Data dataset from March 1, 2025. The goal is to identify trends, patterns, and insights from Airbnb listings using PostgreSQL.
+This project contains exploratory SQL analysis of the NYC Airbnb Open Data dataset from March 2025. The goal is to identify trends, patterns, and insights from Airbnb listings using PostgreSQL.
 
 ---
 
