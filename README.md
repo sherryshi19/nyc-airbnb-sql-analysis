@@ -70,7 +70,7 @@ The dataset used is the NYC Airbnb Open Data from [Inside Airbnb](http://insidea
 2. Download the NYC Airbnb Open Data dataset (March 1, 2025 version) from the Inside Airbnb website.
 3. Clean the data before loading it — the raw CSV may contain formatting issues.
 4. Load the cleaned dataset into your PostgreSQL database.
-5. Open airbnb_analysis_sql.sql in your SQL editor (e.g., DBeaver).
+5. Open airbnb_analysis.sql in your SQL editor (e.g., DBeaver).
 6. Run each section of the file to explore different insights.
 
 ---
